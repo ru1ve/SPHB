@@ -5,8 +5,7 @@ batteries, just a solar panel, a rechargeable battery, and an embedded
 controller that manages heat output and charge safety. This repo holds
 the firmware for the electronics.
 
-> TODO: add build photos, a short demo video/GIF, and any personal
-> motivation for building it here.
+
 
 ## Why this matters
 
